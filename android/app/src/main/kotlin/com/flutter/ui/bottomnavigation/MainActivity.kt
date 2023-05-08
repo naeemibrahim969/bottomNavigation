@@ -1,0 +1,6 @@
+package com.flutter.ui.bottomnavigation
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
